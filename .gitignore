@@ -1,0 +1,14 @@
+# jetbrain IDE files
+.idea/
+.circleci_bk
+
+*~
+*.swp
+*.orig
+build/
+node_modules/
+
+.env
+._*
+.DS_Store
+Pods/
